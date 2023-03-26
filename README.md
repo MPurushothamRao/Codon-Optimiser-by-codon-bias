@@ -37,8 +37,8 @@ optional arguments:
                         
   -op OUTPUTPROT, --outputprot OUTPUTPROT
                         output file in protein fasta
+                        
   -ref REFERENCE, --reference REFERENCE
-  
                         reference file in nucleotide fasta
                         
   -repeat REPEAT, --repeat REPEAT
