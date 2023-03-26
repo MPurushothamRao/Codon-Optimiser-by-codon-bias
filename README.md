@@ -10,10 +10,8 @@ to create codon bias dictionary from reference nucleotide itself
 
 optional arguments:
   -h, --help            show this help message and exit
-  -ref REFERENCE, --reference REFERENCE
-                        reference file in nucleotide fasta
-  -out OUTPUT, --output OUTPUT
-                        output file in dict.py
+  -ref REFERENCE, --reference REFERENCE reference file in nucleotide fasta
+  -out OUTPUT, --output OUTPUT output file in dict.py
   Output of this should be used in case for different expression system in initiator.py and whenever codon_freq is used.
   
   
