@@ -1,0 +1,8 @@
+Python packages that are required
+argparse
+BIOPython
+cai2
+json
+numpy
+pandas
+random
