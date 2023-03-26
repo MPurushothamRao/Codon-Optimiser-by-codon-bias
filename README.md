@@ -1,7 +1,7 @@
 # Codon-Optimiser-by-codon-bias
 It is simple codon optimiser by using codon bias and codon usage
 
-
+Use requiremnts.txt file for required packages
 To create codon bias dict:
 
 frequencer.py [-h] [-ref REFERENCE] [-out OUTPUT]
