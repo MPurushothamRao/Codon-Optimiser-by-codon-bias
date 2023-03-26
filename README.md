@@ -35,3 +35,4 @@ optional arguments:
   -repeat REPEAT, --repeat REPEAT
                         to access repeat
 example: python main.py -in references.fasta -on ref_70.fasta -ref references.fasta -repeat True
+Reference file is from http://genomes.urv.cat/HEG-DB/ which is highly expressed gene repository
